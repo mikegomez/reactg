@@ -1,3 +1,7 @@
 .app1 {
-    background-color: yellow
+    background-color: rgba(182, 182, 176, 0.801);
+    margin: 5px 20%;
+    border-radius: 10px;
+    padding: 10px;
+    z-index: 1;
 }
